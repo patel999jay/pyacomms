@@ -2,7 +2,7 @@
 pyAcomms
 ===========
 
-This repo is base on the old pyAcomms repo which is originally written for the `python2`. I converted the package to `python3`. 
+This repo is base on the old pyAcomms repo which is originally written for the python2. I converted the package to python3. 
 If you want to contribute, please clone the repo and then make a pull request. 
 
 pyAcomms provides a Python interface to Micromodem and Micromodem-2 hardware from the
