@@ -1,4 +1,4 @@
-__author__ = 'Eric'
+#__author__ = 'Eric'
 import argparse
 from acomms.modem_connections import UdpConnection
 from acomms import micromodem, unifiedlog
